@@ -4,9 +4,9 @@ Hi 👋 My name is Kosisochukwu Obidiegwu
 FrontEnd Web Developer|| Empower Her Community Member|| Product Designer|| Digital Marketer
 -------------------------------------------------------------------------------------------
 
-I reside in Port Harcourt, Nigeria, although I shuffle between the United Kingdom and Canada(for school). I am a nursing student at Brandon University, Manitoba. I create amazing interactive websites for people using HTML, CSS and Javascript. For now, I am stuck with creating websites for practice and doing some freelance jobs, but I am looking at getting an internship in frontend web development to help me gain more knowledge about the skill, and also to learn more about the industry. I also spend my time learning product design and playing indoor games.
+I reside in Brandon, Manitoba. I am a nursing student at Brandon University, Manitoba. I create amazing interactive websites for people using HTML, CSS and Javascript. For now, I am stuck with creating websites for practice and doing some freelance jobs, but I am looking at getting an internship in frontend web development to help me gain more knowledge about the skill, and also to learn more about the industry. I also spend my time learning product design and playing indoor games.
 
-* 🌍  I'm based in Port Harcourt, Nigeria
+* 🌍  I'm based in Brandon, Canada
 * ✉️  You can contact me at [khosieobidiegwu@gmail.com](mailto:khosieobidiegwu@gmail.com)
 * 🧠  I'm learning Javascript
 * 🤝  I'm open to collaborating on interesting and challenging projects
